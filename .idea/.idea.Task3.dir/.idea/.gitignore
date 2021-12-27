@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Task3.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\azobkov\Desktop\Task3\Task3\.idea\.idea.Task3.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
